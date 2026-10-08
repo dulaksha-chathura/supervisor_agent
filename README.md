@@ -1,4 +1,4 @@
-# Retail Intelligence Supervisor Agent
+# Supervisor Agent
 
 An LLM-based **Retail Intelligence Supervisor Agent** that uses **Qwen 3.8 27B via Groq** to intelligently select and orchestrate tools for answering retail business questions.
 
