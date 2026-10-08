@@ -1,0 +1,21 @@
+# Private Environment Variables (Secrets)
+.env
+*.env
+.env.*
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+CACHEDIR.TAG
